@@ -1,8 +1,8 @@
 package frames
 
-var Donut = DefaultFrameType(DonutFrames)
+var Donut = DefaultFrameType(FishFrames)
 
-var DonutFrames = []string{
+var FishFrames = []string{
     `.............................:%*:..::..........................................:
     .............................:*%!..!*...........................................
     ..............................*%$:.!%!..........................................
